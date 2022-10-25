@@ -1,0 +1,2 @@
+# GiovanniArnulfoQr
+Samples of Qr
